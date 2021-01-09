@@ -1,0 +1,7 @@
+{
+    "twrp": "https://dl.twrp.me/dipper/twrp-3.5.0_9-0-dipper.img",
+    "twrp_filename": "twrp-3.5.0_9-0-dipper.img",
+    "rom": "https://mirror.codebucket.de/yaap/dipper/YAAP-11-Official-dipper-20201213.zip",
+    "rom_filename": "YAAP-11-Official-dipper-20201213.zip",
+    "version": "0.0.1"
+}
