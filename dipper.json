@@ -3,5 +3,6 @@
     "twrp_filename": "twrp-3.5.0_9-0-dipper.img",
     "rom": "https://dl.akr-developers.com/?file=xiaomi/dipper/YAAP/20210117-GAPPS/YAAP-11-Official-dipper-20210117.zip",
     "rom_filename": "YAAP-11-Official-dipper-20210117.zip",
+    "platform_tools_url":"https://dl.google.com/android/repository/platform-tools-latest-windows.zip?hl=zh-cn",
     "version": "0.0.1"
 }
